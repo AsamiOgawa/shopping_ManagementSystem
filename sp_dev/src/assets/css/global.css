@@ -1,0 +1,40 @@
+html,
+body,
+#app {
+  height: 100%;
+}
+
+* {
+  margin : 0;
+  padding: 0;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size    : 12px;
+}
+
+.el-card.box-card {
+  box-shadow: 0 1px 1 rgba(0, 0, 0, 0.1) !important;
+}
+
+.el-row {
+  margin-bottom: 15px;
+}
+
+.el-table {
+  font-size    : 12px;
+  margin-bottom: 15px;
+}
+
+.fs-12 .el-step__title {
+  font-size: 12px;
+}
+
+.num-left .el-input__inner {
+  text-align: left;
+}
+
+.ql-container {
+  min-height: 300px;
+}
